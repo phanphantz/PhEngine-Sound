@@ -1,0 +1,17 @@
+{
+  "name": "com.phun.phengine.sound",
+  "displayName": "PhEngine Sound",
+  "version": "0.1.1",
+  "description": "PhEngine Sound package",
+  "keywords": [],
+  "dependencies": {
+    "com.phun.phengine.core": "",
+    "com.phun.phengine.motion": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phanphantz/PhEngine-Sound"
+  },
+  "license": "MIT",
+  "author": "Phun Peeticharoenthum"
+}
